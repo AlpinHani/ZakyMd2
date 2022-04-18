@@ -16,7 +16,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'MIMINETBOT'
+  'https://zenzapi.xyz': 'ad9e14dd7c'
 }
 
 // Sticker WM
